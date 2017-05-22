@@ -1,6 +1,6 @@
 # ExpandableGroup
 
-类似于ExpandListView，每一个item有一个title和content，但是不同于ExpandListView的是当第一项是当前项的时候全部item均会展示在屏幕上（当前项展示title与content，其余项只展示title）
+类似于`ExpandListView`，每一个`item`有一个`title`和`content`，但是不同于`ExpandListView`的是当第一项是当前项的时候全部`item`均会展示在屏幕上（当前项展示`title`与`content`，其余项只展示`title`）
 
 ![demo.gif](https://github.com/EndSmile/ExpandableGroup/blob/master/img/demo.gif)
 
